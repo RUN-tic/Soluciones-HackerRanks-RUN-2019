@@ -1,0 +1,5 @@
+nombre=input()
+interes1=input()
+interes2=input()
+print("Hola soy "+nombre+".")
+print("Y mis intereses son: "+interes1+", "+interes2)
