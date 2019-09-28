@@ -1,0 +1,10 @@
+nf=int(input())
+nc=int(input())
+x=int(input())
+matriz = []
+for i in range(nf):
+    matriz.append([])
+    for j in range(nc):
+        matriz[i].append(x)
+        
+print(matriz)
